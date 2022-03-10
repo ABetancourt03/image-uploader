@@ -1,0 +1,15 @@
+.Uploader {
+  display: flex;
+  flex-direction: column;
+}
+
+.UploadImage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+input[type='file'] {
+  margin-bottom: 25px;
+}
